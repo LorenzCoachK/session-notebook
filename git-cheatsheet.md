@@ -6,4 +6,4 @@
 |Command no.|Command|Explanation|
 |:---:|:------------:|:----------|
 |a|git switch -c <branchname>| create new branch, name it between "<" and ">" tags and then switch to it|
-Command b: switch from branch 1 to another branch
+Command b:|switch from branch 1 to another branch
